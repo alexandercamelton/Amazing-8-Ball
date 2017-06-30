@@ -1,0 +1,19 @@
+#name, .text {
+	text-align: center;
+}
+
+.image {
+	background-image: url(8ball.png);
+	background-repeat: no-repeat;
+	margin-right: auto;
+	margin-left: auto;
+	height: 300px;
+	width: 300px;
+	background-size: 300px;
+}
+ #ansbox {
+ 	text-align: center;
+ 	height: 300px;
+ 	line-height: 300px;
+ 	margin: 0px;
+ }
